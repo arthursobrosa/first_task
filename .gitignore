@@ -1,0 +1,8 @@
+/Distribuidoras/
+/Banco de Dados/
+/Banco de dados copy/
+/venv/
+*.pyc
+.DS_Store
+.idea
+.vscode/
